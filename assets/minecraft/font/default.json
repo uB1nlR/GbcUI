@@ -3,8 +3,8 @@
         {
             "type": "ttf",
             "file": "minecraft:font.ttf",
-			"shift": [0, -0.5],
-			"size": 9,
+			"shift": [0, -1.5],
+			"size": 7,
 			"oversample": 5,
 			"skip": ""
         }
